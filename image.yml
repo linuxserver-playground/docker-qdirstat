@@ -15,7 +15,7 @@ upstream:
     repo: shundhammer/qdirstat
   sponsor:
   - name: QDirStat
-    url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EYJXAVLGNRR5W
+    url: https://www.paypal.me/shundhammer
 
 release:
   branch: master
